@@ -1,1 +1,1 @@
-# promruleload
+prometheus for rules

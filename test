@@ -1,0 +1,11 @@
+
+ALERT 
+IF 
+FOR 
+LABEL {
+  severtity = "",
+}
+ANNOTATION {
+  summary = "",
+  description = ""
+}

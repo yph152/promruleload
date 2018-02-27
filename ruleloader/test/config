@@ -1,0 +1,2 @@
+alertname hello
+  for = "1m"
